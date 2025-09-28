@@ -1,6 +1,8 @@
 <h2 align="left"><h1 align="center">Hello , I'm Thein Min Htet</h1><br><h3 align="center">A passionate developer from Myanmar who love building interactive web apps and learning by creating projects.</h3><br><br>- 🌱 I’m currently learning **React,Spring,Laravel**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/TheinMinHtet]<br><br>- 📫 How to reach me **theinminhtet712005@gmail.com**<br><br>- ⚡ Fun fact **I love building projects more than writing documentation**</h2>
 
-<img align="right" height="135" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRyNWhjdWppcXBwbThqZ2ZwMGl3eDVteGY0dW14ZnZqbmE2MjVxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2XXYxkdxzjMC9G/giphy.gif"  />
+###
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDk0eTBldXQ3dnhrczk1aDF6a2x4c3RiNG82bWVvODN3b2VmaXhhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rgNlPNOZUVJpC/giphy.gif"  />
 
 ###
 
