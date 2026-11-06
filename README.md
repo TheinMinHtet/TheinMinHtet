@@ -12,7 +12,6 @@
 
 * 🎓 IT student from Myanmar
 * 💻 Interested in **Software Development, Web Applications, and AI**
-* 🏆 **1st Prize Winner — KBZPay Hackathon** with my team named **SwiftFix**
 * 🚀 I enjoy turning ideas into working applications
 * 🌏 Interested in gaining international experience and working in a collaborative environment
 
