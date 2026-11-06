@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thein Min Htet</h1>
 
-<h3 align="center">Software Developer from Myanmar | Web Development • AI • Problem Solving</h3>
+<h3 align="center">AI Engineer from Myanmar | Web Development • AI • Problem Solving</h3>
 
 <p align="center">
   I enjoy building practical software projects, exploring new technologies, and learning by solving real-world problems.
@@ -12,65 +12,9 @@
 
 * 🎓 IT student from Myanmar
 * 💻 Interested in **Software Development, Web Applications, and AI**
-* 🌱 Currently improving my skills in **React, Spring Boot, Laravel, and AI**
-* 🏆 **1st Prize Winner — KBZPay Hackathon** with my team for **SwiftFix**
-* 🤖 Built an AI-powered **Deepfake Image Detection** system
+* 🏆 **1st Prize Winner — KBZPay Hackathon** with my team named **SwiftFix**
 * 🚀 I enjoy turning ideas into working applications
 * 🌏 Interested in gaining international experience and working in a collaborative environment
-
----
-
-### 🏆 Featured Project
-
-#### 🥇 SwiftFix — KBZPay Hackathon 1st Prize
-
-An on-demand home service platform designed for the KBZPay ecosystem.
-
-**Features:**
-
-* Service browsing and booking
-* Provider assignment
-* Order and booking status tracking
-* Payment flow
-* User information management
-* Admin dashboard
-* Responsive mobile-first interface
-
-**Technologies:**
-
-`React` `Vite` `JavaScript` `Axios` `REST API` `UI/UX`
-
----
-
-### 🤖 AI Project
-
-#### PixelProof — Deepfake Detection
-
-An AI-powered system designed to detect manipulated and deepfake images.
-
-**Technologies:**
-
-`Python` `FastAPI` `Deep Learning` `Computer Vision` `Hugging Face` `React`
-
-The project combines image analysis and deep-learning techniques to classify potentially manipulated images.
-
----
-
-### ☁️ Other Projects
-
-#### Sky-Cast
-
-A weather application developed using Java/J2EE technologies.
-
-#### Skill Sharing Platform
-
-A web platform designed to allow users to share and discover skills.
-
-#### Next.js Authentication
-
-A web authentication project exploring user authentication and modern web development practices.
-
----
 
 ### 🛠️ Technologies & Tools
 
@@ -108,17 +52,6 @@ A web authentication project exploring user authentication and modern web develo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="35" alt="Vite"/>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheinMinHtet&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheinMinHtet&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
-
----
 
 ### 📫 Connect With Me
 
