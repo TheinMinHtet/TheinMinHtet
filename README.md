@@ -15,6 +15,13 @@
 * 🚀 I enjoy turning ideas into working applications
 * 🌏 Interested in gaining international experience and working in a collaborative environment
 
+### 🏆 Honors & Awards
+
+- 🥇 **1st Prize – KBZPay Hackathon** | SwiftFix
+- 🏆 **Champion – FITP Web Development Competition** | Team J.A.R.V.I.S
+- 🥈 **1st Runner-Up - Let's Tech Hackathon** | Team J.A.R.V.I.S
+- 🥉 **2nd Runner-Up - Technortal -"One Project One Week Hackathon"** | Team AFK
+
 ### 🛠️ Technologies & Tools
 
 #### Languages
@@ -63,6 +70,9 @@
   </a>
   <a href="https://www.facebook.com/share/1726T28J9b/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="35" alt="Facebook"/>
+  </a>
+  <a href="https://thein-min-htet.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" height="35" alt="Portfolio"/>
   </a>
 </p>
 
